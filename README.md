@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I learned how to create a repository, make a branch, commit changes, and use a pull request to merge my work into the main branch. I also learned how to add a README to my GitHub profile. Nothing is still confusing—the exercise helped me feel more comfortable using GitHub.
+
 <!--
 **miagoldstein6/miagoldstein6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
